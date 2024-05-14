@@ -1,3 +1,5 @@
+# <img width="100%" alt="gym" src="https://github.com/aloksingh09/GymKhana/assets/88611199/f9e1324e-6ee0-439c-a8bb-b60c530531bb">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
